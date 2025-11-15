@@ -29,6 +29,9 @@ Nowadays, employee attrition poses a significant challenge to organizations, bot
 * PerformanceRating
 * JobLevel
 
+## Dataset
+The dataset used in this project was obtained from [Kaggle: HR Employee Attrition](https://www.kaggle.com/datasets/itssuru/hr-employee-attrition)
+
 ## Methodology
 1. EDA Process:
 * Drop any null values
